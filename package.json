@@ -1,0 +1,35 @@
+{
+  "name": "server-guardian",
+  "version": "1.0.0",
+  "description": "A Guardian for Fivem Server - Made By Muulfz ☺",
+  "main": "Guardian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sucrase-node src/Guardian.js",
+    "dev": "nodemon src/Guardian.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muulfz/ServerGuardian.git"
+  },
+  "keywords": [
+    "Fivem",
+    "Guardian",
+    "Muulfz"
+  ],
+  "author": "Muulfz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muulfz/ServerGuardian/issues"
+  },
+  "homepage": "https://github.com/Muulfz/ServerGuardian#readme"
+}
