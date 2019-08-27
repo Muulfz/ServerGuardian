@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import NoDiscordNoGame from '../services/NoDiscordNoGame';
+import NoDiscordNoGame from '../Services/NoDiscordNoGame';
 
 const routes = new Router();
 

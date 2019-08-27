@@ -9,7 +9,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+.idea/*
 # Generated files
 .idea/**/contentModel.xml
 
@@ -218,3 +218,4 @@ $RECYCLE.BIN/
 .idea/ServerGuardian.iml
 .idea/misc.xml
 .idea/modules.xml
+!/.gitignore
